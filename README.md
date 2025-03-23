@@ -112,3 +112,13 @@ Stretch Goals
 - [Final Presentation Slides](https://docs.google.com/presentation/d/1YaHtMM433_lcRRZqx4on65JFk8WVf2HLRQRkMYOuo30/edit?usp=sharing)
 
 <hr>
+
+## Contact
+Jake Honma - MAE Controls & Robotics - jhonma@ucsd.edu
+
+Harsh Salva - MAE Controls & Robotics - hsavla@ucsd.edu
+
+Andrew Dunker - ECE ML & Controls - adunker@ucsd.edu
+
+Jingli Zhou - Math/CS- jiz228@ucsd.edu
+<hr>
